@@ -1,0 +1,19 @@
+.headerContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 13px 24px;
+  background: #202020;
+}
+.searchBoxContainer {
+  display: flex;
+  align-items: center;
+}
+.logoContainer {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 28px;
+  letter-spacing: 0.05em;
+  text-align: left;
+}
